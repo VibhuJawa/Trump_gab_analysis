@@ -1,4 +1,4 @@
-# Trump_gab_analysis
+# Trump gab analysis
 This analysis will consider social media posts from a new platform: http://gab.ai. 
 
 The sample of this data is present here:
