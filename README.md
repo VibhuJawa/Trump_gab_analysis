@@ -17,6 +17,6 @@ The notebook [gab_ai_data_analysis](GAB_AI_DATA_ANALYSIS.ipynb) contains basic a
 - The 10 most commonly used words,
 - Plot of the number of messages sent by day. x-axis day, y-axis number of messages
 
-### Analysis about the gabs mentioning [Donald Trump](Trump_gab_analysis/TRUMP_GAB_ANALYSIS.ipynb)
+### Analysis about the gabs mentioning [Donald Trump](TRUMP_GAB_ANALYSIS.ipynb)
 
 This notebook analysis gabs associated with donald trump.
