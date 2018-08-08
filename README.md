@@ -19,4 +19,4 @@ The notebook [gab_ai_data_analysis](GAB_AI_DATA_ANALYSIS.ipynb) contains basic a
 
 ### Analysis about the gabs mentioning [Donald Trump](TRUMP_GAB_ANALYSIS.ipynb)
 
-This notebook analysis gabs associated with donald trump.
+This notebook analyses gabs associated with donald trump.
